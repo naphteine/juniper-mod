@@ -1,0 +1,10 @@
+{
+	"user": "windyriver",
+	"repo": "juniper-mod",
+	"entry": "juniper.pwn",
+	"output": "juniper.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"local": true
+}
